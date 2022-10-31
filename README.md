@@ -1,11 +1,19 @@
-![Image of Info](https://github.com/ajit-bahari/ajju/blob/main/info.png)
-
-
 - 👋 Hi, I’m 👋 [AJJU](https://t.me/i_Ajit)
 
 - 👀 I’m A STUDENT
 
 - 🌱 I’m currently learning nhi bataunga
+
+
+
+![Image of Info](https://github.com/ajit-bahari/ajju/blob/main/info.png)
+
+
+
+
+
+
+
 
 ## 🎯 **𝙰𝚓𝚓𝚞 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜**
 <table>
