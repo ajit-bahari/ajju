@@ -1,4 +1,10 @@
 ![Image of Info](https://github.com/ajit-bahari/ajju/blob/main/info.png)
+- 👋 Hi, I’m 👋 [AJJU](https://t.me/i_Ajit)
+
+- 👀 I’m A STUDENT
+
+- 🌱 I’m currently learning nhi bataunga
+
 
 <table>
   <tr>
